@@ -2,7 +2,7 @@
 E-commerce website built using React
 
 
-## `Link` https://vercel.com/tanishasharma11/mini-project-25-ecommerce-website-main-hduu
+## `Link` https://mini-project-25-ecommerce-website-main-hduu.vercel.app
 
 ## Getting Started with Create React App
 
